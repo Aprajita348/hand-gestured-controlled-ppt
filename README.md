@@ -1,5 +1,4 @@
-# hand-gestured-controlled-ppt
-# 🖐️ AI-Based Gesture & Voice Controlled Presentation System
+# 🖐️ hand-gestured-controlled-ppt 
 
 An interactive **computer vision-based presentation controller** that allows users to control presentation slides using **hand gestures and voice commands** instead of a keyboard or mouse.
 
